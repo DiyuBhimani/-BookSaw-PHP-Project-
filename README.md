@@ -293,7 +293,7 @@ online demo is not currently available.
 
 ### Book Management
 
-![BookSaw Book Management](screenshots/book-management.jpg)
+![BookSaw Book Management](screenshots/book-managment.jpg)
 
 **How to add screenshots:**
 
