@@ -256,18 +256,13 @@ The application should now run locally on your computer.
 
 **Database name:** `book`
 
-  -----------------------------------------------------------------------
-  Table                               Description
-  ----------------------------------- -----------------------------------
-  `book`                              Stores book details, including
-                                      names, prices, images, and category
-                                      identifiers
+The project uses the following database tables:
 
-  `categories`                        Stores book categories
-
-  `contact`                           Stores customer contact or feedback
-                                      messages
-  -----------------------------------------------------------------------
+| Table Name | Description |
+|---|---|
+| `book` | Stores book details, including names, prices, images, and category identifiers. |
+| `categories` | Stores book categories. |
+| `contact` | Stores customer contact or feedback messages. |
 
 ### Database Relationship
 
