@@ -311,24 +311,22 @@ The `c_id` field in the `book` table associates a book with a category in the `c
 
 **Live Demo:** Not currently available. The project runs locally using XAMPP.
 
-
 ## 📸 Screenshots
 
-### 1. Home Page
+Screenshots showcase the actual application interface while running locally.
 
-![BookSaw Home Page](screenshots/home.png)
-
-### 2. Books Page
+### Books Page
 
 ![BookSaw Books Page](screenshots/books.jpg)
 
-### 3. Category Management
+### Home Page
+
+![BookSaw Home Page](screenshots/home.png)
+
+### Category Management
 
 ![BookSaw Category Management](screenshots/categories.png)
 
-### 4. Book Management
-
-![BookSaw Book Management](screenshots/book-management.png)
 ### Book Management
 
 ![BookSaw Book Management](screenshots/book-management.png)
