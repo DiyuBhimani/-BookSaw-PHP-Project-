@@ -281,7 +281,7 @@ online demo is not currently available.
 
 ### Home Page
 
-![BookSaw Home Page](screenshots/home.png)
+![BookSaw Home Page](screenshots/home.jpg)
 
 ### Books Page
 
