@@ -121,7 +121,7 @@ The project includes book browsing, category management, book administration, an
 
 The following is a representative structure. Ensure the filenames match your actual repository.
 
-```text
+
 BookSaw/
 ├── index.php
 ├── books.php
@@ -207,7 +207,7 @@ Open `connected.php` and verify the connection settings.
 
 Example for a default local XAMPP setup:
 
-```php
+
 <?php
 
 $conn = new mysqli(
