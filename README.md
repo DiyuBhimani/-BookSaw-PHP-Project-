@@ -289,11 +289,11 @@ online demo is not currently available.
 
 ### Category Management
 
-![BookSaw Category Management](screenshots/categories.png)
+![BookSaw Category Management](screenshots/categories.jpg)
 
 ### Book Management
 
-![BookSaw Book Management](screenshots/book-management.png)
+![BookSaw Book Management](screenshots/book-management.jpg)
 
 **How to add screenshots:**
 
